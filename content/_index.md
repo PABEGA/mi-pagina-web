@@ -1,7 +1,7 @@
 ---
 title: "Paola Betancur García"
 subtitle: "Ingeniera agrónoma"
-description: "Descripción breve"
+description: "Otra descripción"
 images:
   - img/principal.jpg
 image_left: true
